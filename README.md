@@ -1,3 +1,7 @@
+# Notas
+
+Mi primer app de consola
+
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
